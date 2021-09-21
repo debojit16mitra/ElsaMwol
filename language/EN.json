@@ -138,6 +138,18 @@
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
+        
+        },
+        "chatbot":{
+            "BOT_DESC": "Chat with AI bot.",
+            "BOT": ":",
+            "NOT_FOUNDAC": "*Invaild Request*",
+            "NEED_LOCATIONA": "*Invaild Request*",
+            "SWITCH_DESC": "Turn on/off chat bot.\n⌨️ Example: To turn on AI chat, *.switch CHAT_BOT:true*\nTo turn on AI chat, *.switch CHAT_BOT:false*\n(This is a only admin command)",
+            "SWITCH_MISSING": "```Invalid command.```",
+            "SWITCH_SUCCESS": "```AI chat command detected.```",
+            "SWITCH_INVALID": "```Invalid command.```",
+            "NOT_AVAILABLE": "🚫 AI chat bot in sleep mode."
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
