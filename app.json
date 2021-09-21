@@ -55,6 +55,11 @@
             "required": true,
             "value": "false"
         },
+        "CHAT_BOT": {
+            "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and false to deactivate AI chat bot.",
+            "required": true,
+            "value": "true"
+        },
         "HANDLERS": {
             "description": "For commands.",
             "required": true,
